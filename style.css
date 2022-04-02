@@ -1,0 +1,30 @@
+.Lisalab{
+  width: 250px;
+  height: 250px;
+  border: 5px solid green;
+  padding: 50px;
+  margin: 20px;
+   }
+
+ .Lisalab .janemary{
+    border: 0 solid #27ae60;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(240, 245, 234);
+    padding: 40px;
+    border: 30px solid #eae5ee;
+    margin:10px;
+    box-sizing: border-box;
+}
+
+
+.Lisalab .janemary .Wanjiku{
+   border-style: solid black; 
+   border-radius: 12px;
+   padding: 5px;
+   height: 100px;
+   width:100px ;
+  
+}
+
+
